@@ -1,0 +1,47 @@
+
+body {
+    background-color: #FBEAEB;
+}
+
+#title {
+    text-align: center;
+    font-family: Georgia;
+    color: #FBEAEB;
+    border-radius: 10px;
+    border: solid  #2F3C7E 5px;
+    background-color:   #2F3C7E;
+   
+    
+    
+}
+
+.titlebox {
+    width: 300px;
+    height: 40px;
+    background-color:  #2F3C7E;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.linkimage {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    
+}
+
+.container {
+    border: solid #2F3C7E 20px;
+    border-radius: 10px;
+    background-color:  #2F3C7E;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
